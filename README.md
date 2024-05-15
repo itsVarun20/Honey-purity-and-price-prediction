@@ -16,8 +16,8 @@ Dataset: https://www.kaggle.com/datasets/raghav723/predict-price-of-honey
 
 The following machine-learning algorithms are employed in this project:
 
-* *Linear Regression:*
-* *Ridge and Lasso Regression:*
-* *Random Forest:*
-* *Gradient Boosting:* 
-* *XGBoost:*
+* *Linear Regression*
+* *Ridge and Lasso Regression*
+* *Random Forest*
+* *Gradient Boosting* 
+* *XGBoost*
