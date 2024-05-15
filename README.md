@@ -16,8 +16,8 @@ Dataset: https://www.kaggle.com/datasets/raghav723/predict-price-of-honey
 
 The following machine-learning algorithms are employed in this project:
 
-*Linear Regression:* A foundational model offering simplicity and interpretability.
-*Ridge and Lasso Regression:* These models introduce regularization to address multicollinearity and feature selection.
-*Random Forest:* An ensemble method that constructs multiple decision trees independently and aggregates their predictions.
-*Gradient Boosting:* Another ensemble method that sequentially builds trees to minimize the loss function, gradually improving predictive accuracy.
-*XGBoost:* Extreme Gradient Boosting, known for its scalability, efficiency, and superior performance on large datasets. It leverages parallelization and regularization techniques to enhance predictive accuracy while mitigating overfitting.
+* *Linear Regression:*
+* *Ridge and Lasso Regression:*
+* *Random Forest:*
+* *Gradient Boosting:* 
+* *XGBoost:*
